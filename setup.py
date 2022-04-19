@@ -4,7 +4,7 @@ from setuptools import (
 )
 
 setup(
-    name="pyspark_packaging",
+    name="spark_streaming",
     version="0.0.5",
     description="Testing for pyspark stream distribution",
     long_description="Databricks offers a way to install libraries from pypi so testing this feature",
